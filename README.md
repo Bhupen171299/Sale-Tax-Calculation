@@ -1,8 +1,6 @@
 # Sale-Tax-Calculation
 Sale_Tax_Calculation
 
-
-
 Problem 1: Sales Tax
 
 Basic sales tax is applicable at a rate of 10% on all goods, except books, food,
